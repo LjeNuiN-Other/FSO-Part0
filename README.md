@@ -34,4 +34,6 @@ Parts 1-3 are just readings so there is no submission for them
     server-->>browser: [{ ""content": "pink is my favourite color", "date": "2023-09-08T18:23:50.774Z"}, ... ]}
     deactivate server
 
-    Note right of browser: The browser executes the callback function that renders the notes      
+    Note right of browser: The browser executes the callback function that renders the notes   
+
+![alt text](Part_0.4.png)
